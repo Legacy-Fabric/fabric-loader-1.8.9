@@ -17,6 +17,7 @@
 
 package net.fabricmc.loader;
 
+import net.fabricmc.loader.EntrypointStorage.Entry;
 import net.fabricmc.loader.api.EntrypointException;
 import net.fabricmc.loader.api.LanguageAdapter;
 import net.fabricmc.loader.api.LanguageAdapterException;

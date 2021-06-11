@@ -34,6 +34,8 @@ import net.fabricmc.loader.api.metadata.CustomValue;
 import net.fabricmc.loader.api.metadata.ModDependency;
 import net.fabricmc.loader.api.metadata.ModEnvironment;
 import net.fabricmc.loader.api.metadata.Person;
+import net.fabricmc.loader.metadata.V1ModMetadata.IconEntry;
+import net.fabricmc.loader.metadata.V1ModMetadata.MixinEntry;
 
 final class V1ModMetadata extends AbstractModMetadata implements LoaderModMetadata {
 	static final IconEntry NO_ICON = size -> Optional.empty();

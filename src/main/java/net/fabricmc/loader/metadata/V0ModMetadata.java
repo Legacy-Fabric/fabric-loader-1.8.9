@@ -33,6 +33,7 @@ import net.fabricmc.loader.api.metadata.CustomValue;
 import net.fabricmc.loader.api.metadata.ModDependency;
 import net.fabricmc.loader.api.metadata.ModEnvironment;
 import net.fabricmc.loader.api.metadata.Person;
+import net.fabricmc.loader.metadata.V0ModMetadata.Mixins;
 
 final class V0ModMetadata extends AbstractModMetadata implements LoaderModMetadata {
 	private static final Mixins EMPTY_MIXINS = new Mixins(Collections.emptyList(), Collections.emptyList(), Collections.emptyList());

@@ -23,6 +23,7 @@ import com.google.common.jimfs.PathType;
 
 import net.fabricmc.loader.FabricLoader;
 import net.fabricmc.loader.api.metadata.ModDependency;
+import net.fabricmc.loader.discovery.ModResolver.UrlProcessAction;
 import net.fabricmc.loader.game.GameProvider.BuiltinMod;
 import net.fabricmc.loader.api.Version;
 import net.fabricmc.loader.launch.common.FabricLauncherBase;
