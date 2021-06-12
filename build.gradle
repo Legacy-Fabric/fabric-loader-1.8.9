@@ -37,8 +37,8 @@ repositories {
 		url = "https://libraries.minecraft.net/"
 	}
 	maven {
-		name = 'legacy-fabric'
-		url = 'https://maven.legacyfabric.net'
+		name = "legacy-fabric"
+		url = "https://maven.legacyfabric.net"
 	}
 }
 
