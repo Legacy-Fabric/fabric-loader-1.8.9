@@ -60,9 +60,7 @@ import javax.swing.WindowConstants;
 import javax.swing.tree.DefaultTreeCellRenderer;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeNode;
-import net.fabricmc.loader.gui.FabricMainWindow.CustomTreeNode;
-import net.fabricmc.loader.gui.FabricMainWindow.IconInfo;
-import net.fabricmc.loader.gui.FabricMainWindow.IconSet;
+
 import net.fabricmc.loader.gui.FabricStatusTree.FabricStatusButton;
 import net.fabricmc.loader.gui.FabricStatusTree.FabricStatusNode;
 import net.fabricmc.loader.gui.FabricStatusTree.FabricStatusTab;
